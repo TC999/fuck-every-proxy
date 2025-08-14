@@ -1,4 +1,4 @@
-package com.example.xposedlicensebypass;
+package com.fuckep.xposedlicensebypass;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
