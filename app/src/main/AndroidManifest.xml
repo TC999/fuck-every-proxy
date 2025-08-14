@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fuckep.xposedlicensebypass">
+
+    <application
+        android:allowBackup="true"
+        android:label="XposedLicenseBypass"
+        android:supportsRtl="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round">
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true"/>
+        <meta-data
+            android:name="xposeddescription"
+            android:value="去除Google Play许可验证"/>
+        <meta-data
+            android:name="xposedminversion"
+            android:value="53"/>
+    </application>
+
+</manifest>
